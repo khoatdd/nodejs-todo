@@ -1,0 +1,17 @@
+{
+    "name": "node-todo",
+    "version": "0.0.0",
+    "description": "Simple todo application.",
+    "main": "server.js",
+    "author": "KhoaTDD",
+    "scripts": {
+        "build": "webpack"
+    },
+    "dependencies": {
+        "body-parser": "^1.5.2",
+        "express": "^4.16.4",
+        "method-override": "^3.0.0",
+        "mongoose": "^5.3.14",
+        "morgan": "^1.9.0"
+    }
+}
